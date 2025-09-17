@@ -1,7 +1,0 @@
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/pioasm.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/edit_cache.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/rebuild_cache.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/list_install_components.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/install.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/install/local.dir
-/home/alex/Dev/embedded/build/pico/pioasm/CMakeFiles/install/strip.dir

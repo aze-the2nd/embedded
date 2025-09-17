@@ -1,5 +1,0 @@
-/home/alex/Dev/embedded/build/pico/pioasm-install/pioasm/pioasm
-/home/alex/Dev/embedded/build/pico/pioasm-install/pioasm/pioasmTargets.cmake
-/home/alex/Dev/embedded/build/pico/pioasm-install/pioasm/pioasmTargets-release.cmake
-/home/alex/Dev/embedded/build/pico/pioasm-install/pioasm/pioasmConfig.cmake
-/home/alex/Dev/embedded/build/pico/pioasm-install/pioasm/pioasmConfigVersion.cmake
