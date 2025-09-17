@@ -1,0 +1,44 @@
+# --- Build Artefakte ---
+build/
+**/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# --- Pico/ARM Outputs ---
+*.elf
+*.bin
+*.uf2
+*.hex
+*.map
+
+# --- Logs & Temp ---
+*.log
+*.d
+*.o
+*.obj
+*.swp
+*.swo
+*.tmp
+
+# --- VSCode ---
+.vscode/
+*.code-workspace
+
+# --- Backup/OS Files ---
+.DS_Store
+Thumbs.db
+*.bak
+*.old
+
+# --- Python virtualenvs (falls Scripte genutzt werden) ---
+.venv/
+env/
+venv/
+
+# --- SDK Dependencies (falls als Submodule -> NICHT ignorieren!) ---
+# sdk/          # <— nur ignorieren, wenn du SDK NICHT als Submodule verwaltest

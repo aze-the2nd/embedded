@@ -1,14 +1,14 @@
 # ninja log v5
-3	451	1758105409022091147	CMakeFiles/pioasm.dir/hex_output.cpp.o	838d69e5276c6bd6
-4	639	1758105409210090235	CMakeFiles/pioasm.dir/go_output.cpp.o	794f57f139899b75
-3	660	1758105409231090133	CMakeFiles/pioasm.dir/ada_output.cpp.o	131844cbb0b7ecba
-3	910	1758105409480088924	CMakeFiles/pioasm.dir/json_output.cpp.o	f08df10608d73c55
-0	988	1758105409559088541	CMakeFiles/pioasm.dir/main.cpp.o	d803c349b5ae62f2
-2	1113	1758105409684087934	CMakeFiles/pioasm.dir/c_sdk_output.cpp.o	ae62bf9544246305
-1	1237	1758105409808087332	CMakeFiles/pioasm.dir/pio_disassembler.cpp.o	8b0d3a066ffdc19e
-2	1300	1758105409870087031	CMakeFiles/pioasm.dir/python_output.cpp.o	1e4f2d7939ca7650
-2	1736	1758105410306084914	CMakeFiles/pioasm.dir/gen/lexer.cpp.o	b8628db3cb8d038e
-2	2783	1758105411354079824	CMakeFiles/pioasm.dir/gen/parser.cpp.o	c8b36a2a28daf528
-1	3092	1758105411662078328	CMakeFiles/pioasm.dir/pio_assembler.cpp.o	378e9d41c04c0c8b
-3092	3167	1758105411737077964	pioasm	2c253a01ae12df52
-1	11	0	CMakeFiles/install.util	b3e53c6c863c15d3
+2	306	1758109785504010533	CMakeFiles/pioasm.dir/hex_output.cpp.o	838d69e5276c6bd6
+2	410	1758109785608012156	CMakeFiles/pioasm.dir/go_output.cpp.o	794f57f139899b75
+2	428	1758109785625012421	CMakeFiles/pioasm.dir/ada_output.cpp.o	131844cbb0b7ecba
+2	511	1758109785708013716	CMakeFiles/pioasm.dir/json_output.cpp.o	f08df10608d73c55
+1	582	1758109785780014840	CMakeFiles/pioasm.dir/pio_disassembler.cpp.o	8b0d3a066ffdc19e
+2	705	1758109785903016759	CMakeFiles/pioasm.dir/c_sdk_output.cpp.o	ae62bf9544246305
+0	787	1758109785984018023	CMakeFiles/pioasm.dir/main.cpp.o	d803c349b5ae62f2
+2	815	1758109786012018459	CMakeFiles/pioasm.dir/python_output.cpp.o	1e4f2d7939ca7650
+1	896	1758109786094019738	CMakeFiles/pioasm.dir/gen/lexer.cpp.o	b8628db3cb8d038e
+1	1660	1758109786858031646	CMakeFiles/pioasm.dir/gen/parser.cpp.o	c8b36a2a28daf528
+1	1847	1758109787045034560	CMakeFiles/pioasm.dir/pio_assembler.cpp.o	378e9d41c04c0c8b
+1848	1887	1758109787085035182	pioasm	2c253a01ae12df52
+0	9	0	CMakeFiles/install.util	b3e53c6c863c15d3

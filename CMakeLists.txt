@@ -17,6 +17,7 @@ if(BOARD STREQUAL "pico")
 endif()
 
 add_subdirectory(apps/hello-blinky)
+add_subdirectory(apps/ultrasonic)
 #cmake_minimum_required(VERSION 3.21)
 #project(embedded-superrepo)
 #add_subdirectory(apps/hello-blinky)
