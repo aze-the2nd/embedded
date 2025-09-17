@@ -1,0 +1,12 @@
+{
+  // IntelliSense direkt von CMake Tools speisen
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+
+  // Immer mit dem richtigen Board konfigurieren & eigener Build-Ordner
+  "cmake.configureArgs": ["-DBOARD=pico"],
+  "cmake.generator": "Ninja",
+  "cmake.buildDirectory": "${workspaceFolder}/build/pico",
+
+  // Pfad fürs Pico-SDK (für die Pico-Extension; schadet IntelliSense nicht)
+  "pico-sdk.path": "${env:HOME}/Dev/sdk/pico-sdk"
+}
