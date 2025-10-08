@@ -19,4 +19,5 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 
 add_subdirectory(apps/hello-blinky)
-add_subdirectory(apps/ultrasonic)
+add_subdirectory(apps/auv)
+add_subdirectory(apps/pico_testing)
