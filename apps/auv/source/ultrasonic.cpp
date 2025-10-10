@@ -31,24 +31,25 @@ Ultrasonic::~Ultrasonic()
 static absolute_time_t absolute_time_diff_us (const absolute_time_t t, uint32_t ms);
 
 
-bool ultrasonic_init()
+bool Ultrasonic::ultrasonic_init()
 {
 
     gpio_init(US_ECHO);
     gpio_init(US_TRIG);
 
-    gpio_set_dir(US_ECHO, 0);//echo brown
-    gpio_set_dir(US_TRIG, 1);//trig red
+    gpio_set_dir(US_ECHO, false);//echo brown
+    gpio_set_dir(US_TRIG, true);//trig red
 
     
 
     return false;
 }
 
-double ping_ret_distance()
+double Ultrasonic::ping_ret_distance()
 {
 
     static double distance_cm = 0;
+
 
     gpio_put(US_TRIG, false);
     sleep_us(2);
